@@ -6,9 +6,13 @@ In this project, we implemented 3-link disjoint Dijkstra Algorithm where we find
 ## Shortest Path Diagrams
 <p align="center">
 <img src="images/firstLink.png" width="550" height="350" title="First Link disjoint shortest path, distance = 5">
-<em>First Link disjoint shortest path, distance = 5</em>
+<em><strong>First Link disjoint shortest path, distance = 5</strong></em>
+</p>
+<p align="center">
 <img src="images/secondLink.png" width="550" height="350" title="Second Link disjoint shortest path, distance = 7">
-<em>Second Link disjoint shortest path, distance = 7</em>
+<em><strong>Second Link disjoint shortest path, distance = 7</strong></em>
+</p>
+<p align="center">
 <img src="images/thirdLink.png" width="550" height="350" title="Third Link disjoint shortest path, distance = 8">
-<em>Third Link disjoint shortest path, distance = 8</em>
+<em><strong>Third Link disjoint shortest path, distance = 8</strong></em>
 </p>
